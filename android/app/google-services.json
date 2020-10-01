@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655172769509",
+    "firebase_url": "https://android-app-c9b83.firebaseio.com",
+    "project_id": "android-app-c9b83",
+    "storage_bucket": "android-app-c9b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655172769509:android:dc5ed1bef3017a590e260c",
+        "android_client_info": {
+          "package_name": "com.speed4ne.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655172769509-9j9t2afj7hibvj9m693eh10jfhjg57ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbJiVat0_9rEcNnpQY1TvzBmklE3VwGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655172769509-9j9t2afj7hibvj9m693eh10jfhjg57ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
